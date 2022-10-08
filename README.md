@@ -1,6 +1,6 @@
-# 5B54F57DBAA74FA589AFB2D26D6C6B39E0C2930BD88FEA3172556CE96B3EB959
+# Qakbot 30 September 2022
 
-## Loader extractor for sample tiddler.dat
+## Intro
 
 Three days ago a friend of mine received a phishing e-mail with a link (https[:]//lynxus[.]com/usq/refeidpisnretse) containing a zip file protected by the password "U492". 
 
@@ -37,9 +37,11 @@ exit
 
 It runs the command rundll32 assaulting\tiddler.dat,DllRegisterServer in order to start the malicious DLL.
 
+## First Stage
+
 After a bit of analysis, I wrote this simple script to extract the loader in order to practice a bit with python. 
 The two strings used to generate the key are taken dynamically, the shellcode is taken dynamically by using the size offset that is hardcoded.
-I'll try to write the second stage DLL extractor.
+
 
 The malicious DLL was uploaded to [Malware Bazaar](https://bazaar.abuse.ch/sample/5b54f57dbaa74fa589afb2d26d6c6b39e0c2930bd88fea3172556ce96b3eb959/) by JAMESWT_MHT.
 
@@ -57,10 +59,20 @@ HASHES:
 
 * SHA256: 5B54F57DBAA74FA589AFB2D26D6C6B39E0C2930BD88FEA3172556CE96B3EB959
 
-* SHA3-384: ad33f268a26d4ec762431f9601a24431cb37f16afa7859f61ce2702093803d45837a3629db92a64fd892a83a72ee8a98
-
 * SHA1: 4aa4e28cd07e218e45ec60942c53d82c3f50fea7
 
 * MD5: 7754a35deec807d757f79165ba17708d
 
+
+## Second Stage
+
+Extracted DLL from tiddler.dat
+
+HASHES:
+
+* SHA256: 8b08c031d365a0b4d032c6e51bf773655e15795fe3eabcd3fa6487ffe9f3d6b3
+
+* SHA1: cd0528db38e743c619341d3a542748be86d9ba72
+
+* MD5: b8fb226a54197955a05705be00ff2d07
 
