@@ -66,7 +66,7 @@ HASHES:
 
 ## Second Stage
 
-Extracted DLL from tiddler.dat
+Extracted DLL from tiddler.da, you can find it on [Malware Bazaar](https://bazaar.abuse.ch/sample/8b08c031d365a0b4d032c6e51bf773655e15795fe3eabcd3fa6487ffe9f3d6b3/).
 
 HASHES:
 
