@@ -64,9 +64,13 @@ HASHES:
 * MD5: 7754a35deec807d757f79165ba17708d
 
 
-## Second Stage
+### Unpacking
 
 Extracted DLL from tiddler.da, you can find it on [Malware Bazaar](https://bazaar.abuse.ch/sample/8b08c031d365a0b4d032c6e51bf773655e15795fe3eabcd3fa6487ffe9f3d6b3/).
+
+Qakbot config:
+10=BB
+3=1664535088
 
 HASHES:
 
