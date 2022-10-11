@@ -68,8 +68,12 @@ HASHES:
 
 Extracted DLL from tiddler.da, you can find it on [Malware Bazaar](https://bazaar.abuse.ch/sample/8b08c031d365a0b4d032c6e51bf773655e15795fe3eabcd3fa6487ffe9f3d6b3/).
 
-Qakbot config:
+Qakbot config
+
+<img width="395" alt="Screenshot 2022-10-11 at 18 11 43" src="https://user-images.githubusercontent.com/15001354/195144484-7ca59ab7-db7a-4d28-9899-99f629ba295a.png">
+
 10=BB
+
 3=1664535088
 
 HASHES:
