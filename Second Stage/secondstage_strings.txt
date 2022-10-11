@@ -152,3 +152,50 @@ c:\hiberfil.sysss
 shlwapi.dll
 cscript.exe
 %SystemRoot%\SysWOW64\wermgr.exe
+ProgramData
+arp -a
+route print
+amstream.dll
+schtasks.exe /Create /RU "NT AUTHORITY\SYSTEM" /SC ONSTART /TN %u /TR "%s" /NP /F
+%s %04x.%u %04x.%u res: %s seh_test: %u consts_test: %d vmdetected: %d createprocess: %d
+Muhcu#YgcdXubYBu2@2ub4fbUhuiNhyVtcd
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
+Self test FAILED!!!
+cmd /c set
+regsvr32.exe 
+3c91e639
+Start screenshot
+ipconfig /all
+net share
+ /c ping.exe -n 6 127.0.0.1 &  type "%s\System32\calc.exe" > "%s"
+Self test OK.
+qwinsta
+net view
+SELF_TEST_1
+/t5
+schtasks.exe /Delete /F /TN %u
+.lnk
+Microsoft
+net localgroup
+ERROR: GetModuleFileNameW() failed with error: %u
+\System32\WindowsPowerShell\v1.0\powershell.exe
+whoami /all
+ERROR: GetModuleFileNameW() failed with error: ERROR_INSUFFICIENT_BUFFER
+powershell.exe
+error res='%s' err=%d len=%u
+SoNuce]ugdiB3c[doMuce2s81*uXmcvP
+netstat -nao
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+at.exe %u:%u "%s" /I
+ProfileImagePath
+%s \"$%s = \\\"%s\\\\; & $%s\"
+powershell.exe -encodedCommand %S
+powershell.exe -encodedCommand 
+nslookup -querytype=ALL -timeout=12 _ldap._tcp.dc._msdcs.%s
+Self check ok!
+nltest /domain_trusts /all_trusts
+"%s\system32\schtasks.exe" /Create /ST %02u:%02u /RU "NT AUTHORITY\SYSTEM" /SC ONCE /tr "%s" /Z /ET %02u:%02u /tn %s
+Self check
+89210af9
+%s "$%s = \"%s\"; & $%s"
+c:\ProgramData
